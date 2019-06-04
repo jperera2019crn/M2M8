@@ -1,0 +1,47 @@
+h1{
+  text-align: center;
+  font-size: 48px;
+}
+#header{
+ border: solid 2px;
+ background-color: #b3b3b3;
+}
+#principal{
+  height: 500px;
+  border: solid 2px;
+  width: 60%;
+  float: left;
+  margin: 1% 0;
+  background-color: #b3b3b3;
+}
+
+#lateral{
+  height: 500px;
+  border: solid 2px;
+  width: 37%;
+  float: right;
+  margin: 1% 0;
+  background-color: #b3b3b3;
+}
+
+#peu{
+  border: solid 2px;
+  clear: both;
+  background-color: #b3b3b3;
+}
+.num{
+  background-color: #ffe6ff;
+  width: 30%;
+  height: 150px;
+  float: left;
+  margin: 1%;
+  border: solid 2px #FFF;
+}
+.lat{
+  height: 100px;
+  margin: 1%;
+  background-color: #b3ffff;
+}
+h2{
+  margin-left: 50px 0 0 50px;
+}

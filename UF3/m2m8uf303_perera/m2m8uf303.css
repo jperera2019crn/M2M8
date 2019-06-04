@@ -1,0 +1,237 @@
+body{
+   color: #666;
+   margin: 0;
+   padding: 0;
+   font-size: 18px;
+   line-height: 22px;
+   font-family: "Helvetica neue", Arial, sans-serif;
+   background-color: re;
+ }
+ h1,h2{
+   width: 400px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+ }
+ h1{
+   font-size: 2.5em;
+   line-height: 1em;
+ }
+ h2{
+   font-size: 2em;
+   line-height: 1em;
+ }
+ p{
+   width: 400px;
+ }
+ul{
+  width: 400px;
+}
+li{
+  list-style-type: none;
+}
+div{
+  padding-left: 50px;
+  overflow: hidden;
+}
+#primer{
+  background-color: #FFF;
+}
+#primer img{
+  padding-top: 15px;
+}
+#menu{
+  margin: 0;
+  padding: 0;
+  width: 93%;
+  text-align: right;
+  display: inline;
+}
+#menu li{
+  display: inline;
+  margin: 0 5px;
+}
+#segon{
+  background-color: #333;
+  color: #CCC;
+}
+#segon h1{
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+}
+#segon div{
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 5%;
+}
+#segon ul{
+  width: 20%;
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 10%;
+}
+#tercer{
+  background-color: #6C3;
+}
+#quart{
+  background-color: #FFF;
+  color: #6C3;
+}
+#cinque{
+  background-color: #333333;
+  color: #FFF;
+}
+#sise{
+  background-color: #EEECEE;
+  color: #6C3;
+}
+#sete{
+  background-color: #6C3;
+}
+#vuite{
+  background-color: #FFF;
+  color: #6C3;
+}
+#nove{
+  background-color: #333333;
+}
+#tercer{
+  background-image: url("img/01_coneix.png");
+  background-repeat: no-repeat;
+  background-position: 350px;
+  height: 550px
+}
+#quart{
+  background-image: url("img/02_lloc.png");
+  background-repeat: no-repeat;
+  background-position: 500px;
+  height: 641px
+}
+#cinque{
+  background-image: url("img/03_util.png");
+  background-repeat: no-repeat;
+  background-position: 500px;
+  height: 500px
+}
+#sise{
+  background-image: url("img/01_coneix.png");
+  background-repeat: no-repeat;
+  background-position: 350px;
+  height: 550px
+}
+#sete{
+  background-image: url("img/05_rapid.png");
+  background-repeat: no-repeat;
+  background-position: 500px 20px;
+  height: 550px;
+}
+#vuite{
+  background-image: url("img/06_facil.png");
+  background-repeat: no-repeat;
+  background-position: 500px;
+  height: 643px
+
+}
+#nove{
+  text-align: center;
+  padding: 10px;
+}
+#nove img{
+  margin: 10px;
+}
+.txtverd{
+  color: #6C3;
+}
+.txtgris{
+  color: #CCC;
+}
+.inici{
+  text-align: right;
+  width: 100%;
+  font-size: 72px;
+  font-weight: 900;
+  margin: 0;
+  padding: 0;
+  padding-top: 36px;
+}
+a{
+  text-decoration: none;
+}
+a:link{
+  color: #CCC;
+}
+a:visited{
+  color: #CCC;
+}
+a:hover{
+  color: #666;
+}
+a:active{
+  color: #6C3;
+}
+.fonsgris{
+  background-color: #EEECEE;
+  padding: 0;
+  margin: 0;
+}
+.fonsclar{
+  background-color: #DDD;
+  padding: 0;
+  margin: 0;
+}
+.centrat{
+  padding: 0;
+  margin: 0 auto;
+  width: 80%;
+}
+.centrat img{
+  width: 100%;
+  height: auto;
+}
+.centrat p{
+  width: 100%;
+}
+.centrat h1{
+  width: 100%;
+  margin-bottom: 1.2em;
+  font-size: 1.5em;
+  line-height: 1.2em;
+}
+.centrat h2{
+  width: 100%;
+  margin-bottom: 1.2em;
+  font-size: 1.8em;
+  line-height: 1.2em;
+  font-weight: 100;
+}
+.centrat h3{
+  width: 100%;
+}
+.caixa{
+  width: 31%;
+  height: 200px;
+  margin: 1%;
+  padding: 0;
+  float: left;
+}
+.fa{
+  color: #6C3;
+  font-size: 5em;
+}
+.esc{
+  width: 25%;
+  background-color: red;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+#enlce{
+  width: 100%;
+  background-color:#6C3;
+  padding: 10px 0;
+  text-align: center;
+  border-radius:
+
+}
