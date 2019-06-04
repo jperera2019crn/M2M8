@@ -1,0 +1,157 @@
+body{
+      margin: 0;
+      padding: 0;
+}
+div{
+      overflow: visible;
+      position: relative;
+}
+.esquerra{
+      float: left;
+      clear: left;
+}
+.dreta{
+      float: right;
+      clear: right;
+}
+.cap{
+      width: 500px;
+      height: 800px;
+      background-color: #EECB9A;
+      margin: 0 auto;
+      border-radius: 100px 100px 200px 200px;
+}
+
+.pel{
+      height: 200px;
+      background-color: #DD6106;
+      border-radius: 100px 100px 0 0;
+}
+
+.ulls{
+      height: 180px;
+      background-color: ;
+      clear: both;
+        z-index: 10;
+}
+
+.celles{
+      height: 20px;
+      background-color: ;
+      clear: both;
+      margin-top: 30px;
+      margin-bottom: 20px;
+}
+.cella{
+      width: 150px;
+      height: 20px;
+      background-color: #72470A;
+      margin: 0 40px;
+      border-radius: 20px;
+}
+
+}
+.parpelles{
+      height: 60px;
+      background-color: ;
+      clear: both;
+}
+.parpella{
+      width: 80px;
+      height: 60px;
+      background-color: white;
+      margin: 0 75px;
+      border-top:solid #EECB9A;
+      border-bottom: solid #EECB9A;
+      border-radius: 30px;
+}
+.pestanyes{
+  height: 60px;
+  background-color: ;
+  margin: 0 75px;
+
+}
+.pestanya{
+  height: 65px;
+  width: 80px;
+  background-color: ;
+  margin:13px -1px 0 -1px;
+  top: -80px;
+  border-top: solid yellow 20px;
+  border-bottom: solid yellow 20px;
+  border: dashed 2px black;
+  border-radius: 90px 90px 90px 90px;
+}
+
+.irisos{
+  height: 50px;
+  background-color: ;
+}
+
+.iris{
+  height: 40px;
+  width: 40px;
+  background-color: #72470A;
+  border-radius: 50%;
+  margin:13px 95px 0 95px;
+  top: -145px;
+}
+.pupilas{
+  height: 50px;
+  background-color: ;
+}
+.pupila{
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  margin: 0;
+  border-radius: 50%;
+  margin:13px 105px 0 105px;
+  top: -187px;
+}
+.orelles{
+  height: 100px;
+  background-color: ;
+}
+
+.orella{
+  width: 60px;
+  height: 100px;
+  background-color: #EECB9A;
+  margin: -55px;
+  border-radius: 50px;
+}
+.nas{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 205px;
+  border-radius: 100px;
+  top: -280px;
+  z-index: 15;
+}
+.boca{
+  width: 200px;
+  height: 50px;
+  background-color: #B90000;
+  margin: 153px;
+  border-radius: 0 0 100px 100px;
+  top: -400px;
+  z-index: 20;
+
+}
+.boca:hover{
+  -webkit-transform: scale(0.5);
+  transform: scale(0.5);
+}
+.pintura{
+  width: 400px;
+  height: 400px;
+  border-radius: 500px;
+  background-color: white;
+  top: -850px;
+  z-index: 0;
+  margin: 50px;
+  border-bottom: solid red 20px;
+  opacity: 0.5;
+}
